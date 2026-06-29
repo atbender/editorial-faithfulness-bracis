@@ -1,0 +1,4 @@
+# Inference runs inside the vllm/vllm-openai container (vLLM is preinstalled there).
+# These are the only host-side extras the orchestrator uses.
+tqdm
+requests
